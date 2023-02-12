@@ -3,9 +3,7 @@
 
 ## Overview of FIG
 
-Two concise lines explaining what this FIG does with bullet points of the major responsibilities
-
-- Responsibility
+The Networking Foundational Interest Group (FIG) is focused on open source and standards pertaining to transport architecture, services, and operations, enabling data transmission across various digital mediums in a global environment. This work includes scaling, latency, security, access, and discovery across many hardware and software platforms.
 
 ## Goals
 
@@ -13,7 +11,12 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## Scope
 
-- General scope of work not specific in nature
+* Understand and extend global namespace systems for naming, discovery, and location of endpoint worlds and simulations.
+* Define interoperable and extensible namespace schema for discovery and access to object-based elements like containers, assets, scenes, and components used to compose and interact with a world or simulation.
+* Identify and augment current network infrastructure services to enable centralized and decentralized objects’ localized data cache and compute requirements.
+* Create schema with metadata access for queryable discovery and trending to enable proactive replication of media objects and environments. 
+* Create an extensible model for data storage exposure with access and permissions to enable analytics and live operation data models to internal and external systems.
+* Define network metadata schema to allow reporting of the medium, bandwidth, and latent capabilities of server and client endpoints.
 
 ## In scope
 
@@ -30,11 +33,10 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## FIG Links and lists:
 
-- Joining this FIG
-- Slack/Discord
-- Mailing list
-- Issues/PRs
-- Meeting agenda & Notes
+- [Discord](https://discord.gg/openmetaverse)
+- [Mailing list](https://lists.openmv.org/g/fig-networking)
+- [Issues/PRs](https://github.com/Open-MV/fig-networking/issues)
+- [Meeting agenda & Notes](https://github.com/Open-MV/fig-networking/discussions/categories/meetings)
 
 ## Roles and Organization Management
 
