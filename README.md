@@ -2,6 +2,8 @@
 
 This repository holds materials for the Open Metaverse Foundation Interest Group for Legal and Policy (FIG Legal and Policy).
 
+## View [weekly meetings](./meetings/readme.md#Previous-Meetings) with the agenda, notes and audio recordings.
+
 ## Description of FIG Legal and Policy
 
 The Networking Foundational Interest Group (FIG) is focused on open source and standards pertaining to transport architecture, services, and operations, enabling data transmission across various digital mediums in a global environment. This work includes scaling, latency, security, access, and discovery across many hardware and software platforms.
